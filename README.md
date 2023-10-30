@@ -1,6 +1,11 @@
 # bike
 
 A new Flutter project.
+# Output
+
+
+https://github.com/prakhar-p/Bike_app/assets/74608125/69b85bfb-8a35-4259-b6cc-e6b0abd866a4
+
 
 ## Getting Started
 
